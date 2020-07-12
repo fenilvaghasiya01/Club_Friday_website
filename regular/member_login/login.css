@@ -1,0 +1,13 @@
+.login_page{
+position: absolute;
+right: 40%;
+padding:2%;
+margin-top: 1%;
+border-style: groove;
+}
+.login_page1{
+    text-align: center;
+}
+.image_container{
+    display:inline;
+}
